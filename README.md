@@ -4,6 +4,15 @@
 
 Building an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
+## Programs Used: 
+* Flask
+* SQLAlchemy
+* Python
+* Plotly.js
+* Javascript
+* D3
+* HTML
+
 ## Flask API
 
 Used Flask API to serve the data needed for the plots.
