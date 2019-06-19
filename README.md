@@ -22,7 +22,7 @@ Used Plotly.js to build interactive charts for the dashboard.
 
 * Displayed the sample metadata from the route `/metadata/<sample>`
 
-    ![Bubble Chart](bellybutton-bd/static/Images/tableinfo.png)
+    ![info](bellybutton-bd/static/Images/tableinfo.png)
   
 
 * Updated all of the plots any time that a new sample is selected.
