@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
+![Bacteria by filterforge.com](bellybutton-bd/static/Images/bacteria_by_filterforgedotcom.jpg)
 
 Building an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
@@ -22,7 +22,7 @@ Used Plotly.js to build interactive charts for the dashboard.
 
 * Displayed the sample metadata from the route `/metadata/<sample>`
 
-    ![Bubble Chart](bellybutton-bd/static/Images/bubble_chart.png)
+    ![Bubble Chart](bellybutton-bd/static/Images/tableinfo.png)
   
 
 * Updated all of the plots any time that a new sample is selected.
